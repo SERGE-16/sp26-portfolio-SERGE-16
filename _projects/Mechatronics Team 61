@@ -1,1 +1,17 @@
+---
+layout: project
+title: Mechatronics Robot (My Contribution)
+description: Circuit Schematic Modeling, C++ Coding, Wiring, Mechanical Design
+image: 
+---
 
+As part of the mechatronics robot competition I created detailed circuit schematics for our robot, as a well wired it. 
+I wrote code for our teams various checkpoint, and miscelaneous code where needed for our robots competition functions. I helped problem solve issues,
+and come up with quick solutions using what I learned in MAE3240
+
+
+<iframe 
+    src="{{ '/assets/images/Old_Images/combinepdf_(7).pdf' | relative_url }}" 
+    width="100%" 
+    height="600px">
+</iframe>
