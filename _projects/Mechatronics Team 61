@@ -11,7 +11,7 @@ and come up with quick solutions using what I learned in MAE3240
 
 
 <iframe 
-    src="{{ '/assets/images/Old_Images/combinepdf_(7).pdf' | relative_url }}" 
+    src="{{ '/assets/images/Mechatronics Group 61 Final Report.pdf' | relative_url }}" 
     width="100%" 
     height="600px">
 </iframe>
